@@ -7,6 +7,6 @@ Submit your results (a PR here, a link to another repo or a zip is fine). Please
 build/run it.
 
 ### Features
-  - A list of dog breeds
-  - The ability to choose a breed and display the image for it (see images directory in this repo)
+  - A list of dog breeds based on those available in the images directory in this repo
+  - The ability to choose a breed and display the image for it
 
